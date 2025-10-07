@@ -1,0 +1,17 @@
+# C#/.NET projesi için standart ignore listesi
+
+## Derleme çıktıları (Build output)
+[Bb]in/
+[Oo]bj/
+
+## Visual Studio ve Rider gibi IDE'lerin özel dosyaları
+.vs/
+.idea/
+*.suo
+*.user
+
+# Hassas konfigürasyon dosyan
+appsettings.json
+
+# Diğerleri
+*.DS_Store
